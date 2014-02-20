@@ -11,4 +11,7 @@ This may results from the fact that Gecode doesn't support latest Mac framwork.
 
 The problem definitions are posted in my blog. Please refer it for help.
 
+[Sudoku Problem](http://wangdaiwei.github.io/posts/2014/Feb/20/sudoku-problem-definition/)
+
 [N-Queens Problem](http://wangdaiwei.github.io/posts/2014/Feb/20/n-queens-problem-definition/)
+
