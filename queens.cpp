@@ -3,7 +3,6 @@
 //  
 //
 //  Created by Daiwei Wang on 6/11/13.
-//  Student ID: 1155044706
 //
 //
 

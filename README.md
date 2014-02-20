@@ -1,6 +1,10 @@
-gecode
+Gecode
 ======
 
-Some c++ code based on Gecode to solve CSP problems
+Some c++ code based on Gecode to solve CSP problems.
 
-The problem definition is posted in the blog. Please refer it for help.
+See [Gecode](http://www.gecode.org/) for installing Gecode environment and compiling the code.
+
+The problem definitions are posted in my blog. Please refer it for help.
+
+[N-Queens Problem](http://wangdaiwei.github.io/posts/2014/Feb/20/n-queens-problem-definition/)
