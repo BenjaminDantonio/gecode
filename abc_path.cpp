@@ -38,7 +38,7 @@ public:
         // store the bool value of the objective function
         IntVarArray offsetCount = IntVarArray(*this, n*n, 0, 1);
         
-        // constraint of adjacent cells, three models
+        // constraint of adjacent cells, two models
         switch (opt.model()) {
             case MODEL_ONE: {
                 // the variable representation in model one
